@@ -9,9 +9,9 @@
 
 ## :writing_hand: Planejamento:
 - [x] 14/01 - A Base de Tudo.
-- [] 21/01 - Finalização do HTML + CSS.
-- [] 28/01 - Adicionando Javascript e finalizando a aplicação.
-- [] 04/02 - Aula de Encerramento.
+- [ ] 21/01 - Finalização do HTML + CSS.
+- [ ] 28/01 - Adicionando Javascript e finalizando a aplicação.
+- [ ] 04/02 - Aula de Encerramento.
 
 ## :pushpin: Referências:
 [x] [Maratona Discover](https://maratonadiscover.rocketseat.com.br/maratona/aula-01)
