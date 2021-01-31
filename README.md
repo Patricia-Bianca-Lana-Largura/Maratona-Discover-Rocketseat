@@ -1,5 +1,5 @@
  <img src="https://github.com/Patricia-Bianca-Lana-Largura/Maratona-Discover-Rocketseat/blob/main/_img1.png" width="950">
- 
+
  # :technologist: Maratona Discover - Rocketseat (14/01/2021)
  - Aprendizado com Desenvolvimento web.
  ***
@@ -14,4 +14,4 @@
 - [ ] 04/02 - Aula de Encerramento.
 
 ## :pushpin: Referências:
-[x] [Maratona Discover](https://maratonadiscover.rocketseat.com.br/maratona/aula-01)
+- [x] [Maratona Discover](https://maratonadiscover.rocketseat.com.br/maratona/aula-01)
