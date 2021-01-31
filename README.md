@@ -1,5 +1,5 @@
- ![Imagem da Rocketseats ]( )
-
+ <img src="https://github.com/Patricia-Bianca-Lana-Largura/Maratona-Discover-Rocketseat/blob/main/_img1.png" width="950">
+ 
  # :technologist: Maratona Discover - Rocketseat (14/01/2021)
  - Aprendizado com Desenvolvimento web.
  ***
