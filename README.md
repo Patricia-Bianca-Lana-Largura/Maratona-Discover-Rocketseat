@@ -9,7 +9,7 @@
 
 ## Objetivo da Maratona:
 
-- Auxiliar nosestudos praticando as tecnologias utilizadas na maratona e trazendo clareza prática.
+- Auxiliar nos estudos praticando as tecnologias utilizadas na maratona e trazendo clareza prática.
 
 ## :writing_hand: Planejamento:
 - [x] 14/01 - A Base de Tudo.
@@ -17,7 +17,7 @@
 - [ ] 28/01 - Adicionando Javascript e finalizando a aplicação.
 - [ ] 04/02 - Aula de Encerramento.
 
-## O que foi abordado nas aulas?
+## :point_down: O que foi abordado nas aulas?
 
 - Soft Skills;
 - Hard Skills;
