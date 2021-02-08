@@ -36,5 +36,7 @@
 
 
 ## :pushpin: Referências:
+
 > [Maratona Discover](https://maratonadiscover.rocketseat.com.br/maratona/aula-01)
+
 > [CSS Tricks](https://css-tricks.com/)
