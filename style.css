@@ -2,6 +2,9 @@
 
 :root {
     --dark-blue: #363f5f;
+    --green: #49aa26;
+    --light-green: #3dd705;
+    --red:#e92929;
 }
 
 * {
@@ -48,17 +51,50 @@ h2{
 /*Links and Buttons____________________________*/
 
 a{
-    color: #49aa26;
+    color: var(--green);
     text-decoration: none;
 }
 a:hover {
-    color: #3dd705;
+    color: var(--light-green);
 
+}
+
+button {
+    width: 100%;
+    height: 50px;
+    border:none;
+    color: white;
+    background: var(--green);
+    padding: 0;
+    border-radius: 0.25rem;
+    cursor: pointer;
+}
+
+button:hover{
+    background: var(--light-green);
 }
 
 .button.new {
     display: inline-block;
     margin-bottom: .8rem;    
+}
+
+.button.cancel {
+    color: var(--red);
+    border: 2px var(--red) solid;
+    border-radius: 0.25rem;
+    height: 50px;
+    
+    /*Align the content inside of button*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    opacity: 0.6;
+}
+
+.button.cancel:hover{
+    opacity: 1;
 }
 
 /*Header ____________________________*/
@@ -112,7 +148,7 @@ header{
 }
 
 .card.total {
-    background: #49aa26;
+    background: var(--green);
     color: white;
 }
 
@@ -184,6 +220,7 @@ td.expense{
 
     opacity: 0;
     visibility: hidden;
+    z-index: 999;
 }
 
 .modal-overlay.active {
@@ -195,10 +232,46 @@ td.expense{
     background: #f0f2f5;
     padding: 2.4rem;
     position: relative;
+    width: 90%;
+    max-width: 500px;
+    z-index: 1;
+
+}
+/*Form ____________________________*/
+
+#form {
+    max-width: 500px;
+}
+#form h2 {
+    margin-top: 0;
+}
+
+#form form input {
+    border: none;
+    border-radius: 0.2rem;
+    padding: 0.8rem;
+    width: 100%;
+}
+
+.input-group {
+    margin-top: 0.8rem;
 
 }
 
+.input-group small {
+    opacity: 0.4;
+}
 
+.input-group.actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input-group.actions .button,
+.input-group.actions button {
+    width: 48%;
+}
 /*Footer ____________________________*/
 
 footer{
