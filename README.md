@@ -33,7 +33,16 @@
 - Formulário;
 - Modal.
 
+## :black_circle: Javascript:
 
+- Objetos;
+- Tipos e estrutura de dados;
+- If / else;
+- Erros;
+- Funcionalidades;
+- Adicionar e Remover transação;
+- Calcular;
+- Salvar no localStorage.
 
 ## :pushpin: Referências:
 
